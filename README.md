@@ -5,8 +5,10 @@ Welcome to Day 35 of my 50-day web development challenge! Today, I present a Res
 
 JOIN ME HERE:
 
-Live Demo: 
+Live Demo: https://codelikeamachine.github.io/Day35of50-Responsive-Bootstrap-Template/
+
 LinkedIn: http://www.linkedin.com/in/armaansaraswat
+
 Instagram: https://www.instagram.com/saraswat_armaan
 
 Project Highlights:
